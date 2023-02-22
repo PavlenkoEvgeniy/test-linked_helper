@@ -1,4 +1,4 @@
-# Пет-проект - задание от Lesta Games  
+# Пет-проект - задание от Linked Helper
 Написать функцию sostavChisla(massivChisel: number[], chislo: number), 
   которая бы находила все возможные комбинации чисел из massivChisel, 
   сумма которых равна chislo. При этом:
